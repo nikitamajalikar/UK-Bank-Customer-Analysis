@@ -38,7 +38,7 @@ The findings are visualized in an **interactive Tableau storytelling dashboard**
 
 ## 📸 Dashboard Preview  
 
-![Dashboard Preview](./dashboard_uk.png)
+![Dashboard Preview](https://github.com/nikitamajalikar/UK-Bank-Customer-Analysis/blob/main/dashboard_uk.jpg?raw=true)
 
 
 ---
