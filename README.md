@@ -38,6 +38,8 @@ The findings are visualized in an **interactive Tableau storytelling dashboard**
 
 ## 📸 Dashboard Preview  
 
+![Dashboard Preview](./dashboard_uk.png)
+
 
 ---
 
